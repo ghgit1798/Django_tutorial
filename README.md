@@ -1,1 +1,1 @@
-"# Django_tutorial" 
+# Django toy project
